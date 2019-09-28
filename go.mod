@@ -1,3 +1,3 @@
-module gitgub.com/kackaz/otherapi
+module github.com/kackaz/otherapi
 
 go 1.13
