@@ -3,5 +3,5 @@ package otherapi
 import "fmt"
 
 func SayHi() {
-	fmt.Printf("otherapi say Hi.")
+	fmt.Println("otherapi say Hi.")
 }
