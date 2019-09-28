@@ -1,0 +1,5 @@
+package otherapi
+
+func SayHi() {
+
+}
